@@ -466,8 +466,8 @@
 - [GopherTube](https://github.com/krishnassh/gophertube) A terminal-based YouTube client that scrapes YouTube search results and uses mpv for video playback
 - [image-sorter](https://github.com/jgalat/image-sorter) Terminal user interface for sorting images using key bindings written in Rust
 - [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
-- [jfsh](https://github.com/dhonus/jellyfin-tui) A terminal-based client for Jellyfin 
 - [jellyfin-tui](https://github.com/dhonus/jellyfin-tui) Jellyfin client
+- [jfsh](https://github.com/dhonus/jellyfin-tui) A terminal-based client for Jellyfin 
 - [kew](https://github.com/ravachol/kew) A terminal music player for Linux
 - [line](https://github.com/pd3v/line) Tiny command-line midi sequencer and language for live coding
 - [MAL-Cli](https://github.com/L4z3x/mal-tui) A terminal interface for the official myanimelist api written in rust.
